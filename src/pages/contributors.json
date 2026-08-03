@@ -17,13 +17,14 @@
     {
       "page": "/guides/",
       "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
         "https://avatars.githubusercontent.com/u/4407243?v=4",
         "https://avatars.githubusercontent.com/u/113968869?v=4",
         "https://avatars.githubusercontent.com/u/120194874?v=4",
         "https://avatars.githubusercontent.com/u/6012307?v=4",
         "https://avatars.githubusercontent.com/u/57922?v=4"
       ],
-      "lastUpdated": "12/3/2025"
+      "lastUpdated": "8/3/2026"
     },
     {
       "page": "/guides/apis-and-services",
@@ -95,46 +96,47 @@
     {
       "page": "/guides/authentication/JWT/",
       "avatars": [
-        "https://avatars.githubusercontent.com/u/4407243?v=4",
         "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/4407243?v=4",
         "https://avatars.githubusercontent.com/u/113968869?v=4",
         "https://avatars.githubusercontent.com/u/6012307?v=4"
       ],
-      "lastUpdated": "9/10/2025"
+      "lastUpdated": "8/3/2026"
     },
     {
       "page": "/guides/authentication/JWT/faq",
       "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
         "https://avatars.githubusercontent.com/u/4407243?v=4"
       ],
-      "lastUpdated": "6/27/2025"
+      "lastUpdated": "8/3/2026"
     },
     {
       "page": "/guides/authentication/JWT/jwt-certificate",
       "avatars": [
-        "https://avatars.githubusercontent.com/u/4407243?v=4",
         "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/4407243?v=4",
         "https://avatars.githubusercontent.com/u/113968869?v=4"
       ],
-      "lastUpdated": "6/27/2025"
+      "lastUpdated": "8/3/2026"
     },
     {
       "page": "/guides/authentication/JWT/samples",
       "avatars": [
-        "https://avatars.githubusercontent.com/u/4407243?v=4",
         "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/4407243?v=4",
         "https://avatars.githubusercontent.com/u/6012307?v=4"
       ],
-      "lastUpdated": "6/27/2025"
+      "lastUpdated": "8/3/2026"
     },
     {
       "page": "/guides/authentication/JWT/scopes",
       "avatars": [
-        "https://avatars.githubusercontent.com/u/4407243?v=4",
         "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/4407243?v=4",
         "https://avatars.githubusercontent.com/u/113968869?v=4"
       ],
-      "lastUpdated": "6/27/2025"
+      "lastUpdated": "8/3/2026"
     },
     {
       "page": "/guides/authentication/o-auth-integration",
@@ -178,10 +180,11 @@
     {
       "page": "/guides/authentication/ServerToServerAuthentication/faqs",
       "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
         "https://avatars.githubusercontent.com/u/4407243?v=4",
         "https://avatars.githubusercontent.com/u/147755538?v=4"
       ],
-      "lastUpdated": "12/3/2025"
+      "lastUpdated": "8/3/2026"
     },
     {
       "page": "/guides/authentication/ServerToServerAuthentication/implementation",
@@ -192,7 +195,7 @@
         "https://avatars.githubusercontent.com/u/24548615?v=4",
         "https://avatars.githubusercontent.com/u/82974715?v=4"
       ],
-      "lastUpdated": "4/1/2025"
+      "lastUpdated": "8/3/2026"
     },
     {
       "page": "/guides/authentication/ServerToServerAuthentication/ims",
