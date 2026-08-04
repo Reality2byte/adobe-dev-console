@@ -189,13 +189,14 @@
     {
       "page": "/guides/authentication/ServerToServerAuthentication/implementation",
       "avatars": [
+        "https://avatars.githubusercontent.com/u/6910192?v=4",
         "https://avatars.githubusercontent.com/u/14320591?v=4",
         "https://avatars.githubusercontent.com/u/113968869?v=4",
         "https://avatars.githubusercontent.com/u/4407243?v=4",
         "https://avatars.githubusercontent.com/u/24548615?v=4",
         "https://avatars.githubusercontent.com/u/82974715?v=4"
       ],
-      "lastUpdated": "8/3/2026"
+      "lastUpdated": "8/4/2026"
     },
     {
       "page": "/guides/authentication/ServerToServerAuthentication/ims",
@@ -257,19 +258,21 @@
     {
       "page": "/guides/authentication/UserAuthentication/implementation",
       "avatars": [
+        "https://avatars.githubusercontent.com/u/6910192?v=4",
         "https://avatars.githubusercontent.com/u/14320591?v=4",
         "https://avatars.githubusercontent.com/u/113968869?v=4",
         "https://avatars.githubusercontent.com/u/4407243?v=4"
       ],
-      "lastUpdated": "5/5/2025"
+      "lastUpdated": "8/4/2026"
     },
     {
       "page": "/guides/authentication/UserAuthentication/ims",
       "avatars": [
+        "https://avatars.githubusercontent.com/u/6910192?v=4",
         "https://avatars.githubusercontent.com/u/4407243?v=4",
         "https://avatars.githubusercontent.com/u/113968869?v=4"
       ],
-      "lastUpdated": "12/3/2025"
+      "lastUpdated": "8/4/2026"
     },
     {
       "page": "/guides/credentials",
